@@ -683,4 +683,4 @@ Its scientific-computing capabilities are built on top of that language.
 
 The next lecture therefore moves from **what Julia is** to **how to actually run Julia in Google Colab**.
 
-# End of Lecture 0
+
