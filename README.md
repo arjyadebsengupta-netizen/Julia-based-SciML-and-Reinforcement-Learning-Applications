@@ -57,7 +57,7 @@ Scientific Computing Ecosystem
 
 ---
 
-## Lecture 0.5 — How to Use Julia in Google Colab
+## Lecture 0A — How to Use Julia in Google Colab
 
 A practical lecture focused specifically on **running and using Julia in Google Colab**.
 
